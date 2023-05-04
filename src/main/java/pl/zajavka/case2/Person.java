@@ -9,4 +9,6 @@ record Person(String name, String surname) {
     public String whatDoYouLike() {
         return "Strawberries";
     }
+
+    // local master changes
 }
